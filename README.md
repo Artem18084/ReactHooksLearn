@@ -13,3 +13,13 @@
 /src/Hooks/MyOwnHook<br>
 &nbsp;/src/Hooks/MyOwnHook/MyComponent.jsx - create hook<br>
 &nbsp;/src/Hooks/MyOwnHook/UseCounterHook.jsx - use my hook<br>
+/src/Hooks/CustomHooks
+&nbsp;/src/Hooks/CustomHooks/UseAxios
+&nbsp;&nbsp;/src/Hooks/CustomHooks/UseAxios/UseAxiosHook.jsx - create hook
+&nbsp;&nbsp;/src/Hooks/CustomHooks/UseAxios/UseAxios.jsx - use hook
+&nbsp;/src/Hooks/CustomHooks/UseFetch
+&nbsp;&nbsp;/src/Hooks/CustomHooks/UseFetch/UseFetchHook.jsx - create hook
+&nbsp;&nbsp;/src/Hooks/CustomHooks/UseFetch/UseFetch.jsx - use hook
+&nbsp;/src/Hooks/CustomHooks/UseOutside
+&nbsp;&nbsp;/src/Hooks/CustomHooks/UseOutside/UseOutsideHook.jsx - create hook
+&nbsp;&nbsp;/src/Hooks/CustomHooks/UseOutside/DropDownMenu.jsx - use hook
