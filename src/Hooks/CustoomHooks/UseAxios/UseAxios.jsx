@@ -1,8 +1,8 @@
 import React from "react";
-import { useFetch } from "./useFetchHook";
+import useAxios from "./UseAxiosHook";
 
-export default function UseFetchEx() {
-  const { data, error, isLoading } = useFetch(
+export default function useAxios() {
+  const { data, error, isLoading } = useAxios(
     "https: //jsonplaceholder.typicode.com/todos/1"
   );
 
